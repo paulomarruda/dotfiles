@@ -1,0 +1,14 @@
+*
+*.pyc
+!nvim/
+!nvim/**/*
+!polybar
+!polybar/**/*
+!alacitty
+!alacitty/**/*
+!qtile
+!qtile/**/*
+!tmux
+!tmux/**/*
+!zsh
+!zsh/**/*

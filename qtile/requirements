@@ -1,0 +1,4 @@
+polybar >= 3.6.3
+volumeicon >= 0.5.1-5
+blueman >= 2.3.5-2
+picom >= 10.2.1

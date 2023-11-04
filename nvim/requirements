@@ -1,0 +1,11 @@
+neovim >= 0.9.1
+alacritty >= 0.12.2
+tmux >= 3.3_a-7
+ttf-jetbrains-mono-nerd >= 3.0.2.1
+tree-sitter-cli
+ripgrep >= 13.0.0-3
+rust_analyser >= 20230821-1
+pyright >= 1.1.324
+clang >= 15.0.7
+fortls >= 2.13.0
+
